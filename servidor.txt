@@ -1,0 +1,5 @@
+INFO: Inicio de secion exitoso.
+ERROR: Error en la base de datos.
+INFO: Usuario cambio la contrasenia.
+ERROR: Error de 404.
+DEBUG: Verificando variables.
